@@ -3,6 +3,7 @@
 Free Download Open Books
 
 ## Computer Science
+
 1. [.NET Microservices : Architecture for Containerized .NET Applications](https://www.dbooks.org/net-microservices-1427)
 1. [25 Secrets for Faster ASP.NET Applications](https://www.dbooks.org/25-secrets-for-faster-aspnet-applications-1256)
 1. [5 Unsung Tools of DevOps](https://www.dbooks.org/5-unsung-tools-of-devops-1491945176)
@@ -11,11 +12,7 @@ Free Download Open Books
 1. [A Byte of Python](https://www.dbooks.org/a-byte-of-python-1219)
 1. [A Practical Guide to TPM 2.0 : Using the New Trusted Platform Module in the New Age of Security](https://www.dbooks.org/a-practical-guide-to-tpm-20-1430265841)
 1. [Agile Development for Serverless Platforms](https://www.dbooks.org/agile-development-for-serverless-platforms-1617294985)
-1. [Agile Processes in Software Engineering and Extreme Programming : 20th International Conference, XP 2019, Montréal, QC, Canada, May 21–25, 2019, Proceedings](https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-303019034x)
-1. [Agile Processes in Software Engineering and Extreme Programming : 19th International Conference, XP 2018, Porto, Portugal, May 21–25, 2018, Proceedings](https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-3319916025)
-1. [Agile Processes in Software Engineering and Extreme Programming : 18th International Conference, XP 2017, Cologne, Germany, May 22-26, 2017, Proceedings](https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-331957633x)
-1. [Agile Processes in Software Engineering and Extreme Programming – Workshops : XP 2019 Workshops, Montréal, QC, Canada, May 21–25, 2019, Proceedings](https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-workshops-3030301265)
-1. [Agile Processes, in Software Engineering, and Extreme Programming : 17th International Conference, XP 2016, Edinburgh, UK, May 24-27, 2016, Proceedings](https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-3319335154)
+1. [Agile Processes in Software Engineering and Extreme Programming](https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-303019034x)
 1. [An Introduction to C & GUI Programming](https://www.dbooks.org/an-introduction-to-c-gui-programming-1912047659)
 1. [An Introduction to Computer Networks](https://www.dbooks.org/an-introduction-to-computer-networks-1226)
 1. [An Introduction to Matlab and Mathcad](https://www.dbooks.org/an-introduction-to-matlab-and-mathcad-1494366185)
@@ -137,7 +134,6 @@ Free Download Open Books
 1. [Pro TBB : C++ Parallel Programming with Threading Building Blocks](https://www.dbooks.org/pro-tbb-1484243986)
 1. [Producing Open Source Software : How to Run a Successful Free Software Project](https://www.dbooks.org/producing-open-source-software-0596007590)
 1. [Programming for Computations - Python : A Gentle Introduction to Numerical Simulations with Python 3.6](https://www.dbooks.org/programming-for-computations-python-3030168778)
-1. [Programming for Computations - Python : A Gentle Introduction to Numerical Simulations with Python](https://www.dbooks.org/programming-for-computations-python-3319324284)
 1. [Programming Languages and Systems : 27th European Symposium on Programming, ESOP 2018, Held as Part of the European Joint Conferences on Theory and Practice of Software, ETAPS 2018, Thessaloniki, Greece, April 14-20, 2018, Proceedings](https://www.dbooks.org/programming-languages-and-systems-3319898841)
 1. [Programming Persistent Memory : A Comprehensive Guide for Developers](https://www.dbooks.org/programming-persistent-memory-1484249321)
 1. [Programming Windows Store Apps with HTML, CSS, and JavaScript](https://www.dbooks.org/programming-windows-store-apps-with-html-css-and-javascript-1236)
