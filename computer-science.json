@@ -60,6 +60,10 @@
       "url":"https://www.dbooks.org/a-practical-guide-to-tpm-20-1430265841/"
    },
    {
+      "title":"A Practical Introduction to Python Programming",
+      "url":"https://www.dbooks.org/a-practical-introduction-to-python-programming-5614772358/"
+   },
+   {
       "title":"A Rust Sampler",
       "url":"https://www.dbooks.org/a-rust-sampler-1617299162/"
    },
@@ -120,7 +124,7 @@
       "url":"https://www.dbooks.org/algorithms-notes-for-professionals-1460/"
    },
    {
-      "title":"An Introduction to C &amp; GUI Programming",
+      "title":"An Introduction to C & GUI Programming",
       "url":"https://www.dbooks.org/an-introduction-to-c-gui-programming-1912047659/"
    },
    {
@@ -604,7 +608,7 @@
       "url":"https://www.dbooks.org/entity-oriented-search-3319939351/"
    },
    {
-      "title":"Entreprenerd: Marketing &lt;for&gt; Programmers",
+      "title":"Entreprenerd: Marketing <for> Programmers",
       "url":"https://www.dbooks.org/entreprenerd-marketing-programmers-1230/"
    },
    {
@@ -1004,6 +1008,10 @@
       "url":"https://www.dbooks.org/javascript-for-impatient-programmers-1091210098/"
    },
    {
+      "title":"JavaScript from ES5 to ESNext",
+      "url":"https://www.dbooks.org/javascript-from-es5-to-esnext-5616057595/"
+   },
+   {
       "title":"JavaScript Notes for Professionals",
       "url":"https://www.dbooks.org/javascript-notes-for-professionals-1513/"
    },
@@ -1224,7 +1232,7 @@
       "url":"https://www.dbooks.org/made-with-creative-commons-8799873338/"
    },
    {
-      "title":"Making Games with Python &amp; Pygame",
+      "title":"Making Games with Python & Pygame",
       "url":"https://www.dbooks.org/making-games-with-python-pygame-1469901730/"
    },
    {
@@ -1516,6 +1524,10 @@
       "url":"https://www.dbooks.org/powershell-notes-for-professionals-5591648187/"
    },
    {
+      "title":"Practical Foundations for Programming Languages",
+      "url":"https://www.dbooks.org/practical-foundations-for-programming-languages-5614769432/"
+   },
+   {
       "title":"Practices of the Python Pro",
       "url":"https://www.dbooks.org/practices-of-the-python-pro-1617296082/"
    },
@@ -1528,6 +1540,10 @@
       "url":"https://www.dbooks.org/preparing-for-life-in-a-digital-world-303038781x/"
    },
    {
+      "title":"Principles of Programming Languages",
+      "url":"https://www.dbooks.org/principles-of-programming-languages-5614768817/"
+   },
+   {
       "title":"Pro Git (2 edition)",
       "url":"https://www.dbooks.org/pro-git-1484200764/"
    },
@@ -1538,6 +1554,10 @@
    {
       "title":"Probability and Statistics for Computer Science",
       "url":"https://www.dbooks.org/probability-and-statistics-for-computer-science-3319644106/"
+   },
+   {
+      "title":"Problem Solving with Algorithms and Data Structures (3 edition)",
+      "url":"https://www.dbooks.org/problem-solving-with-algorithms-and-data-structures-5614772998/"
    },
    {
       "title":"Producing Open Source Software",
@@ -1586,6 +1606,10 @@
    {
       "title":"Python Data Science Handbook",
       "url":"https://www.dbooks.org/python-data-science-handbook-1491912057/"
+   },
+   {
+      "title":"Python for Everybody",
+      "url":"https://www.dbooks.org/python-for-everybody-1530051126/"
    },
    {
       "title":"Python Machine Learning Projects",
@@ -1804,7 +1828,7 @@
       "url":"https://www.dbooks.org/social-theory-after-the-internet-178735122x/"
    },
    {
-      "title":"Software &amp; Hardware Collide",
+      "title":"Software & Hardware Collide",
       "url":"https://www.dbooks.org/software-hardware-collide-1491904631/"
    },
    {
@@ -1906,6 +1930,10 @@
    {
       "title":"The Coder's Apprentice",
       "url":"https://www.dbooks.org/the-coders-apprentice-5595844388/"
+   },
+   {
+      "title":"The Common Java Cookbook",
+      "url":"https://www.dbooks.org/the-common-java-cookbook-5614779084/"
    },
    {
       "title":"The CSS Handbook",
