@@ -97,7 +97,7 @@
    },
    {
       "title":"Agile Processes in Software Engineering and Extreme Programming",
-      "url":"https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-3319916025/"
+      "url":"https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-303049392x/"
    },
    {
       "title":"Agile Processes in Software Engineering and Extreme Programming - Workshops",
@@ -236,6 +236,10 @@
       "url":"https://www.dbooks.org/azure-functions-succinctly-1565/"
    },
    {
+      "title":"Azure Pipelines Succinctly",
+      "url":"https://www.dbooks.org/azure-pipelines-succinctly-1642002135/"
+   },
+   {
       "title":"Azure Serverless Succinctly",
       "url":"https://www.dbooks.org/azure-serverless-succinctly-1642002011/"
    },
@@ -246,6 +250,10 @@
    {
       "title":"Bash Notes for Professionals",
       "url":"https://www.dbooks.org/bash-notes-for-professionals-1463/"
+   },
+   {
+      "title":"Beginning Excel 2019",
+      "url":"https://www.dbooks.org/beginning-excel-2019-5635349929/"
    },
    {
       "title":"Bing Maps V8 Succinctly",
@@ -452,6 +460,10 @@
       "url":"https://www.dbooks.org/cyber-physical-systems-of-systems-3319475908/"
    },
    {
+      "title":"Cyber-Physical Systems: A Model-Based Approach",
+      "url":"https://www.dbooks.org/cyber-physical-systems-a-model-based-approach-3030360717/"
+   },
+   {
       "title":"CyberParks \u2013 The Interface Between People, Places and Technology",
       "url":"https://www.dbooks.org/cyberparks-the-interface-between-people-places-and-technology-3030134172/"
    },
@@ -482,6 +494,10 @@
    {
       "title":"Deep Learning with JavaScript",
       "url":"https://www.dbooks.org/deep-learning-with-javascript-1617296171/"
+   },
+   {
+      "title":"Defend Dissent",
+      "url":"https://www.dbooks.org/defend-dissent-1955101051/"
    },
    {
       "title":"Defensive Database Programming with SQL Server",
@@ -660,6 +676,10 @@
       "url":"https://www.dbooks.org/financial-numerical-recipes-in-c-5605814214/"
    },
    {
+      "title":"First Semester in Numerical Analysis with Python",
+      "url":"https://www.dbooks.org/first-semester-in-numerical-analysis-with-python-5635274259/"
+   },
+   {
       "title":"Flutter Succinctly",
       "url":"https://www.dbooks.org/flutter-succinctly-1504/"
    },
@@ -674,6 +694,10 @@
    {
       "title":"Foundations of Software Science and Computation Structures",
       "url":"https://www.dbooks.org/foundations-of-software-science-and-computation-structures-3030171272/"
+   },
+   {
+      "title":"Front-end Developer Handbook",
+      "url":"https://www.dbooks.org/front-end-developer-handbook-5629151494/"
    },
    {
       "title":"Full Speed Python",
@@ -718,6 +742,14 @@
    {
       "title":"Gender Differences in Computer and Information Literacy",
       "url":"https://www.dbooks.org/gender-differences-in-computer-and-information-literacy-3030262030/"
+   },
+   {
+      "title":"Get Started with Arduino",
+      "url":"https://www.dbooks.org/get-started-with-arduino-1912047632/"
+   },
+   {
+      "title":"Get Started with MicroPython on Raspberry Pi Pico",
+      "url":"https://www.dbooks.org/get-started-with-micropython-on-raspberry-pi-pico-1912047861/"
    },
    {
       "title":"Getting Started with InnerSource",
@@ -796,6 +828,18 @@
       "url":"https://www.dbooks.org/hacking-the-xbox-1593270291/"
    },
    {
+      "title":"HackSpace Magazine: Issue 45",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-45-5629202826/"
+   },
+   {
+      "title":"HackSpace Magazine: Issue 46",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-46-5635251392/"
+   },
+   {
+      "title":"HackSpace Magazine: Issue 47",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-47-5635251826/"
+   },
+   {
       "title":"Hadoop for Windows Succinctly",
       "url":"https://www.dbooks.org/hadoop-for-windows-succinctly-1503/"
    },
@@ -814,6 +858,10 @@
    {
       "title":"Hibernate Notes for Professionals",
       "url":"https://www.dbooks.org/hibernate-notes-for-professionals-1495/"
+   },
+   {
+      "title":"High-Performance Caching with Nginx and Nginx Plus",
+      "url":"https://www.dbooks.org/high-performance-caching-with-nginx-and-nginx-plus-5629058678/"
    },
    {
       "title":"High-Performance Modelling and Simulation for Big Data Applications",
@@ -836,12 +884,20 @@
       "url":"https://www.dbooks.org/how-to-code-in-go-0999773062/"
    },
    {
+      "title":"How to Code in HTML5 and CSS3",
+      "url":"https://www.dbooks.org/how-to-code-in-html5-and-css3-5629146344/"
+   },
+   {
       "title":"How To Code in Node.js",
       "url":"https://www.dbooks.org/how-to-code-in-nodejs-1735831727/"
    },
    {
       "title":"How To Code in Python 3",
       "url":"https://www.dbooks.org/how-to-code-in-python-3-0999773011/"
+   },
+   {
+      "title":"How To Code in React.js",
+      "url":"https://www.dbooks.org/how-to-code-in-reactjs-1735831743/"
    },
    {
       "title":"How to Make Mistakes in Python",
@@ -854,6 +910,10 @@
    {
       "title":"How To Manage Remote Servers with Ansible",
       "url":"https://www.dbooks.org/how-to-manage-remote-servers-with-ansible-1735831735/"
+   },
+   {
+      "title":"How to Think Like a Computer Scientist",
+      "url":"https://www.dbooks.org/how-to-think-like-a-computer-scientist-0971677506/"
    },
    {
       "title":"HTML5 Canvas Notes for Professionals",
@@ -924,6 +984,10 @@
       "url":"https://www.dbooks.org/introducing-microsoft-power-bi-150930228x/"
    },
    {
+      "title":"Introducing Microsoft SQL Server 2016",
+      "url":"https://www.dbooks.org/introducing-microsoft-sql-server-2016-150930195x/"
+   },
+   {
       "title":"Introducing Windows 10 for IT Professionals",
       "url":"https://www.dbooks.org/introducing-windows-10-for-it-professionals-0735696977/"
    },
@@ -976,6 +1040,10 @@
       "url":"https://www.dbooks.org/ipython-interactive-computing-and-visualization-cookbook-1785888633/"
    },
    {
+      "title":"Is Parallel Programming Hard, And, If So, What Can You Do About It? (2 edition)",
+      "url":"https://www.dbooks.org/is-parallel-programming-hard-and-if-so-what-can-you-do-about-it-5629031650/"
+   },
+   {
       "title":"Istio Succinctly",
       "url":"https://www.dbooks.org/istio-succinctly-1470/"
    },
@@ -994,6 +1062,10 @@
    {
       "title":"Java Web Scraping Handbook",
       "url":"https://www.dbooks.org/java-web-scraping-handbook-1234/"
+   },
+   {
+      "title":"Java, Java, Java (3 edition)",
+      "url":"https://www.dbooks.org/java-java-java-0131474340/"
    },
    {
       "title":"Java-Based Real-Time Programming",
@@ -1034,6 +1106,10 @@
    {
       "title":"Just Enough Linux",
       "url":"https://www.dbooks.org/just-enough-linux-5591603201/"
+   },
+   {
+      "title":"Just Enough R",
+      "url":"https://www.dbooks.org/just-enough-r-5629146778/"
    },
    {
       "title":"Keras Succinctly",
@@ -1116,6 +1192,10 @@
       "url":"https://www.dbooks.org/learning-html5-canvas-5606040861/"
    },
    {
+      "title":"Learning iOS",
+      "url":"https://www.dbooks.org/learning-ios-5606031542/"
+   },
+   {
       "title":"Learning Java",
       "url":"https://www.dbooks.org/learning-java-5605980055/"
    },
@@ -1192,6 +1272,10 @@
       "url":"https://www.dbooks.org/learning-vim-5606038334/"
    },
    {
+      "title":"Learning Vue.js",
+      "url":"https://www.dbooks.org/learning-vuejs-5629057358/"
+   },
+   {
       "title":"Learning Zeromq",
       "url":"https://www.dbooks.org/learning-zeromq-1481262653/"
    },
@@ -1206,6 +1290,10 @@
    {
       "title":"Linux Appliance Design",
       "url":"https://www.dbooks.org/linux-appliance-design-1593271409/"
+   },
+   {
+      "title":"Linux Command Line for You and Me",
+      "url":"https://www.dbooks.org/linux-command-line-for-you-and-me-5616588211/"
    },
    {
       "title":"Linux commands Notes for Professionals",
@@ -1310,6 +1398,10 @@
    {
       "title":"Mobile Media Learning",
       "url":"https://www.dbooks.org/mobile-media-learning-1312981253/"
+   },
+   {
+      "title":"Model-Based Engineering of Collaborative Embedded Systems",
+      "url":"https://www.dbooks.org/model-based-engineering-of-collaborative-embedded-systems-3030621367/"
    },
    {
       "title":"Modeling and Simulation in Python",
@@ -1472,6 +1564,10 @@
       "url":"https://www.dbooks.org/perl-notes-for-professionals-5591650363/"
    },
    {
+      "title":"Philosophy of Computer Science",
+      "url":"https://www.dbooks.org/philosophy-of-computer-science-5629033060/"
+   },
+   {
       "title":"PHP Notes for Professionals",
       "url":"https://www.dbooks.org/php-notes-for-professionals-5591650568/"
    },
@@ -1580,8 +1676,8 @@
       "url":"https://www.dbooks.org/programming-for-computations-matlaboctave-3319324527/"
    },
    {
-      "title":"Programming for Computations - Python",
-      "url":"https://www.dbooks.org/programming-for-computations-python-3319324284/"
+      "title":"Programming for Computations - Python (2 edition)",
+      "url":"https://www.dbooks.org/programming-for-computations-python-3030168778/"
    },
    {
       "title":"Programming Languages and Systems",
@@ -1610,6 +1706,10 @@
    {
       "title":"Python for Everybody",
       "url":"https://www.dbooks.org/python-for-everybody-1530051126/"
+   },
+   {
+      "title":"Python for You and Me",
+      "url":"https://www.dbooks.org/python-for-you-and-me-5616397074/"
    },
    {
       "title":"Python Machine Learning Projects",
@@ -1642,6 +1742,10 @@
    {
       "title":"Rails on Containers",
       "url":"https://www.dbooks.org/rails-on-containers-0999773089/"
+   },
+   {
+      "title":"Raspberry Pi Beginner's Guide (4 edition)",
+      "url":"https://www.dbooks.org/raspberry-pi-beginners-guide-191204773x/"
    },
    {
       "title":"Raspberry Pi Camera Guide",
@@ -1724,6 +1828,10 @@
       "url":"https://www.dbooks.org/retro-gaming-with-raspberry-pi-1252/"
    },
    {
+      "title":"Reversible Computation: Extending Horizons of Computing",
+      "url":"https://www.dbooks.org/reversible-computation-extending-horizons-of-computing-3030473619/"
+   },
+   {
       "title":"Rexx Programmer's Reference",
       "url":"https://www.dbooks.org/rexx-programmers-reference-0764579967/"
    },
@@ -1796,6 +1904,10 @@
       "url":"https://www.dbooks.org/seeing-theory-5606821680/"
    },
    {
+      "title":"Semantic Systems. In the Era of Knowledge Graphs",
+      "url":"https://www.dbooks.org/semantic-systems-in-the-era-of-knowledge-graphs-3030598330/"
+   },
+   {
       "title":"Semantic Systems. The Power of AI and Knowledge Graphs",
       "url":"https://www.dbooks.org/semantic-systems-the-power-of-ai-and-knowledge-graphs-3030332209/"
    },
@@ -1824,6 +1936,10 @@
       "url":"https://www.dbooks.org/snake-wrangling-for-kids-5614606548/"
    },
    {
+      "title":"Social Media Mining",
+      "url":"https://www.dbooks.org/social-media-mining-1107018854/"
+   },
+   {
       "title":"Social Theory after the Internet",
       "url":"https://www.dbooks.org/social-theory-after-the-internet-178735122x/"
    },
@@ -1834,6 +1950,10 @@
    {
       "title":"Software Above the Level of a Single Device",
       "url":"https://www.dbooks.org/software-above-the-level-of-a-single-device-1449374514/"
+   },
+   {
+      "title":"Software for Exascale Computing - SPPEXA 2016-2019",
+      "url":"https://www.dbooks.org/software-for-exascale-computing-sppexa-2016-2019-3030479560/"
    },
    {
       "title":"Software Innovation",
@@ -1928,12 +2048,20 @@
       "url":"https://www.dbooks.org/the-big-data-agenda-1911534734/"
    },
    {
+      "title":"The C Programming Language Handbook",
+      "url":"https://www.dbooks.org/the-c-programming-language-handbook-5629267502/"
+   },
+   {
       "title":"The Coder's Apprentice",
       "url":"https://www.dbooks.org/the-coders-apprentice-5595844388/"
    },
    {
       "title":"The Common Java Cookbook",
       "url":"https://www.dbooks.org/the-common-java-cookbook-5614779084/"
+   },
+   {
+      "title":"The Computers That Made Britain",
+      "url":"https://www.dbooks.org/the-computers-that-made-britain-1912047853/"
    },
    {
       "title":"The CSS Handbook",
@@ -1946,6 +2074,10 @@
    {
       "title":"The Definitive Guide to Graph Databases",
       "url":"https://www.dbooks.org/the-definitive-guide-to-graph-databases-854/"
+   },
+   {
+      "title":"The Deno Handbook",
+      "url":"https://www.dbooks.org/the-deno-handbook-5616575763/"
    },
    {
       "title":"The Design and Implementation of the Anykernel and Rump Kernels (2 edition)",
@@ -2040,12 +2172,20 @@
       "url":"https://www.dbooks.org/the-nature-of-code-0985930802/"
    },
    {
+      "title":"The Next.js Handbook",
+      "url":"https://www.dbooks.org/the-nextjs-handbook-5616401585/"
+   },
+   {
       "title":"The NGINX Real-Time API Handbook",
       "url":"https://www.dbooks.org/the-nginx-real-time-api-handbook-5606918340/"
    },
    {
       "title":"The Node.js Handbook",
       "url":"https://www.dbooks.org/the-nodejs-handbook-5614276519/"
+   },
+   {
+      "title":"The Official Raspberry Pi Handbook 2021",
+      "url":"https://www.dbooks.org/the-official-raspberry-pi-handbook-2021-1912047888/"
    },
    {
       "title":"The Piracy Crusade",
@@ -2104,6 +2244,10 @@
       "url":"https://www.dbooks.org/think-java-1492072508/"
    },
    {
+      "title":"Think OCaml",
+      "url":"https://www.dbooks.org/think-ocaml-5629144833/"
+   },
+   {
       "title":"Think Python (2 edition)",
       "url":"https://www.dbooks.org/think-python-1491939362/"
    },
@@ -2132,6 +2276,10 @@
       "url":"https://www.dbooks.org/transforms-in-css-1491928158/"
    },
    {
+      "title":"Tutorials of Visual Graphic Communication Programs for Interior Design",
+      "url":"https://www.dbooks.org/tutorials-of-visual-graphic-communication-programs-for-interior-design-5635280689/"
+   },
+   {
       "title":"Twitter Bootstrap 4 Succinctly",
       "url":"https://www.dbooks.org/twitter-bootstrap-4-succinctly-1563/"
    },
@@ -2142,6 +2290,10 @@
    {
       "title":"Understanding Machine Learning",
       "url":"https://www.dbooks.org/understanding-machine-learning-1107057132/"
+   },
+   {
+      "title":"Understanding the DOM",
+      "url":"https://www.dbooks.org/understanding-the-dom-0999773097/"
    },
    {
       "title":"Using .NET Core, Docker, and Kubernetes Succinctly",
@@ -2218,6 +2370,10 @@
    {
       "title":"Windows PowerShell Networking Guide",
       "url":"https://www.dbooks.org/windows-powershell-networking-guide-1448/"
+   },
+   {
+      "title":"Wordpress In A Week",
+      "url":"https://www.dbooks.org/wordpress-in-a-week-1370810385/"
    },
    {
       "title":"WPF Debugging and Performance Succinctly",
