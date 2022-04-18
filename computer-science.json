@@ -12,6 +12,10 @@
       "url":"https://www.dbooks.org/10-print-chr2055rnd1-goto-10-0262018462/"
    },
    {
+      "title":"100 Laravel Quick Tips",
+      "url":"https://www.dbooks.org/100-laravel-quick-tips-5635522906/"
+   },
+   {
       "title":"25 Secrets for Faster ASP.NET Applications",
       "url":"https://www.dbooks.org/25-secrets-for-faster-aspnet-applications-1256/"
    },
@@ -44,12 +48,20 @@
       "url":"https://www.dbooks.org/97-things-every-software-architect-should-know-059652269x/"
    },
    {
+      "title":"97 Things Every SRE Should Know",
+      "url":"https://www.dbooks.org/97-things-every-sre-should-know-1492081493/"
+   },
+   {
       "title":"A Byte of Python",
       "url":"https://www.dbooks.org/a-byte-of-python-1219/"
    },
    {
       "title":"A Case Study in Community-Driven Software Adoption",
       "url":"https://www.dbooks.org/a-case-study-in-community-driven-software-adoption-1098114566/"
+   },
+   {
+      "title":"A Functional Pattern System for Object-Oriented Design",
+      "url":"https://www.dbooks.org/a-functional-pattern-system-for-object-oriented-design-3860647709/"
    },
    {
       "title":"A Graduate Course in Applied Cryptography",
@@ -112,6 +124,10 @@
       "url":"https://www.dbooks.org/agile-processes-in-software-engineering-and-extreme-programming-3319335154/"
    },
    {
+      "title":"AI for Everyone?",
+      "url":"https://www.dbooks.org/ai-for-everyone-1914386132/"
+   },
+   {
       "title":"Akka.NET Succinctly",
       "url":"https://www.dbooks.org/akkanet-succinctly-1584/"
    },
@@ -124,7 +140,7 @@
       "url":"https://www.dbooks.org/algorithms-notes-for-professionals-1460/"
    },
    {
-      "title":"An Introduction to C & GUI Programming",
+      "title":"An Introduction to C &amp; GUI Programming",
       "url":"https://www.dbooks.org/an-introduction-to-c-gui-programming-1912047659/"
    },
    {
@@ -196,6 +212,10 @@
       "url":"https://www.dbooks.org/application-security-in-net-succinctly-5591635343/"
    },
    {
+      "title":"Architect Modern Web Applications with ASP.NET Core and Azure",
+      "url":"https://www.dbooks.org/architect-modern-web-applications-with-aspnet-core-and-azure-5635531311/"
+   },
+   {
       "title":"ASP.NET Core 2 Succinctly",
       "url":"https://www.dbooks.org/aspnet-core-2-succinctly-1527/"
    },
@@ -206,6 +226,10 @@
    {
       "title":"ASP.NET WebHooks Succinctly",
       "url":"https://www.dbooks.org/aspnet-webhooks-succinctly-5591635411/"
+   },
+   {
+      "title":"Assemblers And Loaders",
+      "url":"https://www.dbooks.org/assemblers-and-loaders-0130525642/"
    },
    {
       "title":"Asterisk: The Future of Telephony (2 edition)",
@@ -232,6 +256,10 @@
       "url":"https://www.dbooks.org/azure-devops-succinctly-1642002046/"
    },
    {
+      "title":"Azure Durable Functions Succinctly",
+      "url":"https://www.dbooks.org/azure-durable-functions-succinctly-1642002216/"
+   },
+   {
       "title":"Azure Functions Succinctly",
       "url":"https://www.dbooks.org/azure-functions-succinctly-1565/"
    },
@@ -246,6 +274,10 @@
    {
       "title":"Azure Tips and Tricks",
       "url":"https://www.dbooks.org/azure-tips-and-tricks-1732704120/"
+   },
+   {
+      "title":"Azure Virtual Desktop Succinctly",
+      "url":"https://www.dbooks.org/azure-virtual-desktop-succinctly-1642002224/"
    },
    {
       "title":"Bash Notes for Professionals",
@@ -264,6 +296,10 @@
       "url":"https://www.dbooks.org/biopython-tutorial-and-cookbook-1542/"
    },
    {
+      "title":"Blazor for ASP NET Web Forms Developers",
+      "url":"https://www.dbooks.org/blazor-for-asp-net-web-forms-developers-5635532714/"
+   },
+   {
       "title":"Blazor Succinctly",
       "url":"https://www.dbooks.org/blazor-succinctly-1458/"
    },
@@ -272,12 +308,20 @@
       "url":"https://www.dbooks.org/blazor-webassembly-succinctly-164200202x/"
    },
    {
+      "title":"Blazor, A Beginners Guide",
+      "url":"https://www.dbooks.org/blazor-a-beginners-guide-5635532311/"
+   },
+   {
       "title":"Blockchain and Crypt Currency",
       "url":"https://www.dbooks.org/blockchain-and-crypt-currency-9811533768/"
    },
    {
       "title":"Blown to Bits",
       "url":"https://www.dbooks.org/blown-to-bits-0137135599/"
+   },
+   {
+      "title":"Build Your Own First-Person Shooter in Unity",
+      "url":"https://www.dbooks.org/build-your-own-first-person-shooter-in-unity-5635261968/"
    },
    {
       "title":"Building a Virtualized Network Solution",
@@ -348,6 +392,10 @@
       "url":"https://www.dbooks.org/certified-programming-with-dependent-types-0262026651/"
    },
    {
+      "title":"CI/CD with Docker and Kubernetes (2 edition)",
+      "url":"https://www.dbooks.org/cicd-with-docker-and-kubernetes-5645623897/"
+   },
+   {
       "title":"Cisco ACE to Nginx",
       "url":"https://www.dbooks.org/cisco-ace-to-nginx-5613730956/"
    },
@@ -376,8 +424,16 @@
       "url":"https://www.dbooks.org/cloud-native-applications-1617294314/"
    },
    {
+      "title":"Cloud Native DevOps with Kubernetes (2 edition)",
+      "url":"https://www.dbooks.org/cloud-native-devops-with-kubernetes-1098116828/"
+   },
+   {
       "title":"Cloud-Based Benchmarking of Medical Image Analysis",
       "url":"https://www.dbooks.org/cloud-based-benchmarking-of-medical-image-analysis-3319496441/"
+   },
+   {
+      "title":"Code the Classics",
+      "url":"https://www.dbooks.org/code-the-classics-1912047594/"
    },
    {
       "title":"Coding with Minecraft",
@@ -624,7 +680,7 @@
       "url":"https://www.dbooks.org/entity-oriented-search-3319939351/"
    },
    {
-      "title":"Entreprenerd: Marketing <for> Programmers",
+      "title":"Entreprenerd: Marketing &lt;for&gt; Programmers",
       "url":"https://www.dbooks.org/entreprenerd-marketing-programmers-1230/"
    },
    {
@@ -720,6 +776,10 @@
       "url":"https://www.dbooks.org/fundamentals-of-c-programming-1201/"
    },
    {
+      "title":"Fundamentals of Computer Programming with C#",
+      "url":"https://www.dbooks.org/fundamentals-of-computer-programming-with-c-9544007733/"
+   },
+   {
       "title":"Fundamentals of Python Programming",
       "url":"https://www.dbooks.org/fundamentals-of-python-programming-1200/"
    },
@@ -764,6 +824,10 @@
       "url":"https://www.dbooks.org/gis-succinctly-1221/"
    },
    {
+      "title":"Git Internals",
+      "url":"https://www.dbooks.org/git-internals-5635538979/"
+   },
+   {
       "title":"Git Notes for Professionals",
       "url":"https://www.dbooks.org/git-notes-for-professionals-1483/"
    },
@@ -804,6 +868,10 @@
       "url":"https://www.dbooks.org/graph-databases-for-beginners-855/"
    },
    {
+      "title":"Greedy Algorithms",
+      "url":"https://www.dbooks.org/greedy-algorithms-9535157981/"
+   },
+   {
       "title":"GUI Design for Android Apps",
       "url":"https://www.dbooks.org/gui-design-for-android-apps-1484203828/"
    },
@@ -818,6 +886,10 @@
    {
       "title":"Hacking Exposed Web Applications",
       "url":"https://www.dbooks.org/hacking-exposed-web-applications-007222438x/"
+   },
+   {
+      "title":"Hacking Portugal",
+      "url":"https://www.dbooks.org/hacking-portugal-1540743632/"
    },
    {
       "title":"Hacking Secret Ciphers with Python",
@@ -840,6 +912,26 @@
       "url":"https://www.dbooks.org/hackspace-magazine-issue-47-5635251826/"
    },
    {
+      "title":"HackSpace Magazine: Issue 48",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-48-5635252105/"
+   },
+   {
+      "title":"HackSpace Magazine: Issue 50",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-50-5642264618/"
+   },
+   {
+      "title":"HackSpace Magazine: Issue 51",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-51-5645618138/"
+   },
+   {
+      "title":"HackSpace Magazine: Issue 52",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-52-5645618547/"
+   },
+   {
+      "title":"HackSpace Magazine: Issue 53",
+      "url":"https://www.dbooks.org/hackspace-magazine-issue-53-5649249441/"
+   },
+   {
       "title":"Hadoop for Windows Succinctly",
       "url":"https://www.dbooks.org/hadoop-for-windows-succinctly-1503/"
    },
@@ -852,8 +944,16 @@
       "url":"https://www.dbooks.org/handbook-on-craniofacial-superimposition-331911137x/"
    },
    {
+      "title":"Haptics: Science, Technology, Applications",
+      "url":"https://www.dbooks.org/haptics-science-technology-applications-3030581470/"
+   },
+   {
       "title":"Haskell Notes for Professionals",
       "url":"https://www.dbooks.org/haskell-notes-for-professionals-1484/"
+   },
+   {
+      "title":"Help! My Computer is Broken",
+      "url":"https://www.dbooks.org/help-my-computer-is-broken-191204790x/"
    },
    {
       "title":"Hibernate Notes for Professionals",
@@ -1048,6 +1148,10 @@
       "url":"https://www.dbooks.org/istio-succinctly-1470/"
    },
    {
+      "title":"Java 3D Programming",
+      "url":"https://www.dbooks.org/java-3d-programming-1930110359/"
+   },
+   {
       "title":"Java Notes for Professionals",
       "url":"https://www.dbooks.org/java-notes-for-professionals-1496/"
    },
@@ -1074,6 +1178,10 @@
    {
       "title":"JavaScript Allong\u00e9 (6 edition)",
       "url":"https://www.dbooks.org/javascript-allong-5605600340/"
+   },
+   {
+      "title":"JavaScript Bible (4 edition)",
+      "url":"https://www.dbooks.org/javascript-bible-0764533428/"
    },
    {
       "title":"JavaScript for impatient programmers",
@@ -1320,7 +1428,7 @@
       "url":"https://www.dbooks.org/made-with-creative-commons-8799873338/"
    },
    {
-      "title":"Making Games with Python & Pygame",
+      "title":"Making Games with Python &amp; Pygame",
       "url":"https://www.dbooks.org/making-games-with-python-pygame-1469901730/"
    },
    {
@@ -1342,6 +1450,10 @@
    {
       "title":"Marketing and Advertising Using Google",
       "url":"https://www.dbooks.org/marketing-and-advertising-using-google-1426627378/"
+   },
+   {
+      "title":"Mastering Dyalog APL",
+      "url":"https://www.dbooks.org/mastering-dyalog-apl-0956463800/"
    },
    {
       "title":"Mastering Ethereum",
@@ -1414,6 +1526,10 @@
    {
       "title":"Modern Java EE Design Patterns",
       "url":"https://www.dbooks.org/modern-java-ee-design-patterns-1491943912/"
+   },
+   {
+      "title":"Modern Object Pascal Introduction for Programmers",
+      "url":"https://www.dbooks.org/modern-object-pascal-introduction-for-programmers-5635536784/"
    },
    {
       "title":"Modern Web Development on the JAMstack",
@@ -1498,6 +1614,10 @@
    {
       "title":"Online privacy for journalists",
       "url":"https://www.dbooks.org/online-privacy-for-journalists-1243/"
+   },
+   {
+      "title":"OOP - Learn Object Oriented Thinking and Programming",
+      "url":"https://www.dbooks.org/oop-learn-object-oriented-thinking-and-programming-8090466192/"
    },
    {
       "title":"Open Data Structures",
@@ -1944,7 +2064,7 @@
       "url":"https://www.dbooks.org/social-theory-after-the-internet-178735122x/"
    },
    {
-      "title":"Software & Hardware Collide",
+      "title":"Software &amp; Hardware Collide",
       "url":"https://www.dbooks.org/software-hardware-collide-1491904631/"
    },
    {
@@ -2006,6 +2126,10 @@
    {
       "title":"Swift Notes for Professionals",
       "url":"https://www.dbooks.org/swift-notes-for-professionals-5592544217/"
+   },
+   {
+      "title":"Symfony",
+      "url":"https://www.dbooks.org/symfony-5649257264/"
    },
    {
       "title":"Ten Steps to Linux Survival",
@@ -2092,6 +2216,10 @@
       "url":"https://www.dbooks.org/the-elements-of-data-analytic-style-1184/"
    },
    {
+      "title":"The Enterprise Path to Service Mesh Architectures (2 edition)",
+      "url":"https://www.dbooks.org/the-enterprise-path-to-service-mesh-architectures-1492089338/"
+   },
+   {
       "title":"The Essence of Software Engineering",
       "url":"https://www.dbooks.org/the-essence-of-software-engineering-3319738976/"
    },
@@ -2114,6 +2242,10 @@
    {
       "title":"The Huawei and Snowden Questions",
       "url":"https://www.dbooks.org/the-huawei-and-snowden-questions-3319749501/"
+   },
+   {
+      "title":"The Impact of Digital Technologies on Public Health in Developed and Developing Countries",
+      "url":"https://www.dbooks.org/the-impact-of-digital-technologies-on-public-health-in-developed-and-developing-countries-3030515176/"
    },
    {
       "title":"The InfoSec Handbook",
@@ -2142,6 +2274,10 @@
    {
       "title":"The Linux Commands Handbook",
       "url":"https://www.dbooks.org/the-linux-commands-handbook-5613994259/"
+   },
+   {
+      "title":"The Little ASP.NET Core Book",
+      "url":"https://www.dbooks.org/the-little-aspnet-core-book-138775615x/"
    },
    {
       "title":"The little book about OS development",
@@ -2188,6 +2324,10 @@
       "url":"https://www.dbooks.org/the-official-raspberry-pi-handbook-2021-1912047888/"
    },
    {
+      "title":"The Official Raspberry Pi Handbook 2022",
+      "url":"https://www.dbooks.org/the-official-raspberry-pi-handbook-2022-5635347913/"
+   },
+   {
       "title":"The Piracy Crusade",
       "url":"https://www.dbooks.org/the-piracy-crusade-1625340524/"
    },
@@ -2200,12 +2340,20 @@
       "url":"https://www.dbooks.org/the-react-beginners-handbook-5614607515/"
    },
    {
+      "title":"The Real-Time APIs",
+      "url":"https://www.dbooks.org/the-real-time-apis-5649248868/"
+   },
+   {
       "title":"The Security Development Lifecycle",
       "url":"https://www.dbooks.org/the-security-development-lifecycle-0735622140/"
    },
    {
       "title":"The SysAdmin Handbook",
       "url":"https://www.dbooks.org/the-sysadmin-handbook-1906434425/"
+   },
+   {
+      "title":"The Tiny Book of Rules",
+      "url":"https://www.dbooks.org/the-tiny-book-of-rules-5635521117/"
    },
    {
       "title":"The Unix Workbench",
@@ -2266,6 +2414,10 @@
    {
       "title":"TouchDevelop (3 edition)",
       "url":"https://www.dbooks.org/touchdevelop-1430261374/"
+   },
+   {
+      "title":"Towards Interoperable Research Infrastructures for Environmental and Earth Sciences",
+      "url":"https://www.dbooks.org/towards-interoperable-research-infrastructures-for-environmental-and-earth-sciences-3030528294/"
    },
    {
       "title":"Training Site Reliability Engineers",
@@ -2340,6 +2492,10 @@
       "url":"https://www.dbooks.org/w3css-succinctly-1579/"
    },
    {
+      "title":"Warez",
+      "url":"https://www.dbooks.org/warez-1685710379/"
+   },
+   {
       "title":"Web Application Security",
       "url":"https://www.dbooks.org/web-application-security-1492053112/"
    },
@@ -2382,6 +2538,10 @@
    {
       "title":"Writing Native Mobile Apps in a Functional Language Succinctly",
       "url":"https://www.dbooks.org/writing-native-mobile-apps-in-a-functional-language-succinctly-1577/"
+   },
+   {
+      "title":"Xamarin Community Toolkit Succinctly",
+      "url":"https://www.dbooks.org/xamarin-community-toolkit-succinctly-1642002208/"
    },
    {
       "title":"Xamarin.Forms for macOS Succinctly",
